@@ -269,7 +269,7 @@ Join us on Discord: [![Discord](https://img.shields.io/discord/12045584209848648
 
 ## License
 
-Copyright (c) 2024 [Acorn Labs, Inc.](http://acorn.io)
+Copyright (c) 2024 [Acorn Labs, Inc.](http://acorn.io).
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
